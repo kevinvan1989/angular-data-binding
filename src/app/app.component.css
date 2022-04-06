@@ -1,0 +1,8 @@
+.output {
+  margin-top: 1rem;
+  width: 100px;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+}
